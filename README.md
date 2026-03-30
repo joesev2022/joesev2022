@@ -3,7 +3,7 @@
 # ¡Hola! Soy José Apaza (JoseAs.Dev) 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesev2022&layout=compact&theme=tokyonight&hide_border=true" alt="Mis Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joesev2022&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 ### 👨‍💻 Sobre mí

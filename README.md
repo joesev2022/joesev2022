@@ -1,4 +1,6 @@
-![Banner](./banner_joseasdeb.png)
+<p align="center">
+  <img src="./banner_joseasdeb.png" width="100%" alt="JoseAs.Dev Banner">
+</p>
 
 # ¡Hola! Soy José Apaza (JoseAs.Dev) 🚀
 

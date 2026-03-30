@@ -4,10 +4,6 @@
 
 # ¡Hola! Soy José Apaza (JoseAs.Dev) 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesev2022&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Mis Lenguajes" />
-</p>
-
 ### 👨‍💻 Sobre mí
 Soy **Full Stack Developer** y **UX/UI Designer** basado en Perú. Me especializo en la creación de ecosistemas **SaaS escalables** y soluciones de alta eficiencia con inteligencia artificial integrada. Mi enfoque combina la robustez del código con una experiencia de usuario impecable.
 

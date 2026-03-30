@@ -1,6 +1,6 @@
 ![Banner](./banner_joseasdeb.png)
 
-# ¡Hola! Soy José Alberto Apaza (JoseAs.Dev) 🚀
+# ¡Hola! Soy José Apaza (JoseAs.Dev) 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joesev2022&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Estadísticas de GitHub" />

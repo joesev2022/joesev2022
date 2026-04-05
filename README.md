@@ -24,7 +24,7 @@ Actualmente estoy construyendo tres plataformas SaaS integrando **IA generativa*
 2.  **ConsultancyFlow:** Gestión de proyectos para consultores de Ingeniería y Arquitectura.
 3.  **MedSync Independent:** Plataforma multitenant para profesionales de salud (Psicología, Nutrición, etc.).
 
-**Stack Tecnológico:** `Next.js` • `NestJS` • `TypeScript` • `Docker` • `PostgreSQL` • `JWT Auth` • `AI Integration`
+**Stack Tecnológico:** `Next.js` • `VueJS` • `Angular 20+` • `NestJS` • `Laravel 11+` • `TypeScript` • `Docker` • `PostgreSQL` • `JWT Auth` • `AI Integration`
 
 ---
 

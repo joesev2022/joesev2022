@@ -34,7 +34,7 @@ Actualmente estoy construyendo tres plataformas SaaS integrando **IA generativa*
 | :--- | :--- | :--- |
 | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232d.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Crocoblock](https://img.shields.io/badge/Crocoblock-blue?style=flat) |
 
-- **Especialidades:** Arquitectura Multitenant, Integración de APIs de IA, SEO Profesional, Automatizaciones para Telegram y WhatsApp, contenido visual profesional con IA (Imágenes y Videos).
+- **Especialidades:** Arquitectura Multitenant, Integración de APIs de IA, SEO Profesional, Automatizaciones para Telegram y WhatsApp, contenido visual profesional con IA (Imágenes y Videos), Sitios Web para Negocios.
 
 ---
 

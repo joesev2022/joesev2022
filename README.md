@@ -11,7 +11,7 @@ Soy **Full Stack Developer** y **UX/UI Designer** basado en Perú. Me especializ
 
 ### 💼 Experiencia Destacada
 **Desarrollador SaaS Multitenant @ Aynitech (2 años)** Participé activamente en el desarrollo y mantenimiento de un SaaS de gestión de CRM, Proyectos, Talent, Logistic, ERP de alcance internacional.
-- **Stack:** Vue.js, NestJS, PostgreSQL.
+- **Stack:** Vue.js, NestJS, GraphQL, Typescript, PostgreSQL.
 - **Infraestructura:** AWS (Amazon Web Services).
 - **Logros:** Implementación de arquitecturas multitenencia y optimización de flujos de datos complejos.
 
